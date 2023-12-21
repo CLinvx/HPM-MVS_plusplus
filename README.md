@@ -1,6 +1,5 @@
 # HPM-MVS++
 * an enhanced version of HPM-MVS (HPM-MVS with Prior Consistency and Mandatory Consistency)
-* the initial open source version for HPM-MVS++, maybe the code should be further optimized
 
 ## Dependencies
 The code has been tested on Windows 10 with RTX 3070.<br />
