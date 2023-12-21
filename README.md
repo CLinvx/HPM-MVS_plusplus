@@ -19,7 +19,7 @@ make
 * Test 
 ``` 
 Use script colmap2mvsnet_acm.py to convert COLMAP SfM result to MVS input   
-Run ./xxx $data_folder to get reconstruction results (./xxx represents the project name)
+Run ./HPM-MVS_plusplus $data_folder true/flase(semantic segmentation masks for filtering sky area) to get reconstruction results 
 ```
 
 ## Citation
